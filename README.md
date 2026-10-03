@@ -15,8 +15,8 @@ I'm a senior CS major at the University of Mary Washington (graduating May 2027)
 ## Tools I use
 
 - **Languages:** GDScript, C++, Java
-- **Engines & frameworks:** Godot 4, Allegro 5, Paper
-- **Other:** Git, Linux (Debian), Visual Studio
+- **Engines & frameworks:** Godot 4, Paper
+- **Other:** Git, Linux, Visual Studio
 
 ## Outside the code
 
